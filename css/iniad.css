@@ -1,15 +1,18 @@
 body {
   background-color: #00FFFF;
+  font-family: "メイリオ";
   color: #FF4F02;
 }
 
 h1 {
   font-size: 24px;
+  font-family: "メイリオ";
   text-align: center;
 }
 
 h2 {
   font-size: 20px;
+  font-family: "メイリオ";
   color: #000000;
   border-bottom: solid 1px #cc0000;
 }
@@ -17,11 +20,13 @@ h2 {
 h3 {
   font-size: 18px;
   padding-left: 4px;
+  font-family: "メイリオ";
   border-left: solid 4px #FF0;
 }
 
 #schedule {
   padding: 10px 20px 10px 20px;
+  color: #FFF;
   background-color: #00FF;
 }
 
@@ -34,3 +39,10 @@ h3 {
   color: #FFF;
   font-size: 30px;
 }
+
+courses{
+  font-size: 18px;
+  background-color: #FFFFFF;
+  font-family: "メイリオ";
+  color: #000080;
+} 
